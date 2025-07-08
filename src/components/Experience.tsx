@@ -4,7 +4,7 @@ export const Experience = () => {
     {
       title: "SOC Intern",
       company: "CyRAACS, Bengaluru",
-      period: "Jan 2025 – Jun 2025 (6 months)",
+      period: "Oct 2025 – Mar 2025 (6 months)",
       type: "Current",
       responsibilities: [
         "Monitored and analyzed real-time security events using SIEM tools",
@@ -16,7 +16,7 @@ export const Experience = () => {
     {
       title: "Full Stack Web Development Intern",
       company: "Simform, Bengaluru",
-      period: "Sep 2024 – Dec 2024 (3 months)",
+      period: "Jun 2024 – Aug 2024 (3 months)",
       type: "Completed",
       responsibilities: [
         "Developed responsive web applications using React.js, Node.js, and MongoDB",
